@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/davidspicks/react-example/static/css/main.d1b05096.chunk.css",
+    "main.js": "/davidspicks/react-example/static/js/main.37b6c6bd.chunk.js",
+    "main.js.map": "/davidspicks/react-example/static/js/main.37b6c6bd.chunk.js.map",
+    "runtime-main.js": "/davidspicks/react-example/static/js/runtime-main.376c1a02.js",
+    "runtime-main.js.map": "/davidspicks/react-example/static/js/runtime-main.376c1a02.js.map",
+    "static/js/2.265ca040.chunk.js": "/davidspicks/react-example/static/js/2.265ca040.chunk.js",
+    "static/js/2.265ca040.chunk.js.map": "/davidspicks/react-example/static/js/2.265ca040.chunk.js.map",
+    "index.html": "/davidspicks/react-example/index.html",
+    "precache-manifest.3348c6f530fa899f377ebf6cd9e0cd8b.js": "/davidspicks/react-example/precache-manifest.3348c6f530fa899f377ebf6cd9e0cd8b.js",
+    "service-worker.js": "/davidspicks/react-example/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/davidspicks/react-example/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.265ca040.chunk.js.LICENSE.txt": "/davidspicks/react-example/static/js/2.265ca040.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/davidspicks/react-example/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.376c1a02.js",
+    "static/js/2.265ca040.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.37b6c6bd.chunk.js"
+  ]
+}
