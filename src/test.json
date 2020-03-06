@@ -1,0 +1,110 @@
+{
+  "Heading": "January 10-12, 2020",
+  "Events": [
+    {
+      "title": "Ballard Art Walk",
+      "titleURL": "http://www.visitballard.com/events/ballard-art-walk-2/",
+      "badges": [
+        {
+          "name": "Free Admission",
+          "tooltip": "Gate admission is free, additional items may be available for purchase inside",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/dollarx.gif"
+        }
+      ],
+      "dow": "SAT",
+      "description": "<STRONG>SAT</STRONG> Live music | Art Demonstrations | Local Artists at various locations within walking distance in downtown Ballard.",
+      "links": [
+        {
+          "name": "Map",
+          "URL": "https://binged.it/2sjKpQh"
+        }
+      ],
+      "sponsor": "www.visitballard.com",
+      "sponsorURL": "http://www.visitballard.com/"
+    },
+    {
+      "title": "Skagit Eagle Festival Week 2",
+      "titleURL": "https://concrete-wa.com/skagit-eagle-festival/",
+      "badges": [
+        {
+          "name": "Free Admission",
+          "tooltip": "Gate admission is free, additional items may be available for purchase inside",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/dollarx.gif"
+        },
+        {
+          "name": "Kid Friendly",
+          "tooltip": "All ages welcome, with features appealing to younger children",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/teddy.jpg"
+        }
+      ],
+      "dow": "SAT-SUN",
+      "description": "Guided walks, photography workshops, arts & crafts sales, tours, raft trips, dance performance and music. At the <A HREF=\"https://skagiteagle.org\" TARGET=\"_blank\">Skagit River Bald Eagle Interpretive Center</A> in Concrete, WA, about 2 hrs north of Seattle <A HREF=\"http://binged.it/wg62sR\" TARGET=\"_blank\">Map</A>",
+      "links": [],
+      "sponsor": "http://concrete-wa.com",
+      "sponsorURL": "http://concrete-wa.com"
+    },
+    {
+      "title": "Reading with Rover",
+      "titleURL": "http://www.readingwithrover.org/events/",
+      "badges": [
+        {
+          "name": "Free Admission",
+          "tooltip": "Gate admission is free, additional items may be available for purchase inside",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/dollarx.gif"
+        },
+        {
+          "name": "Kid Friendly",
+          "tooltip": "All ages welcome, with features appealing to younger children",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/teddy.jpg"
+        }
+      ],
+      "dow": "SAT-SUN",
+      "description": "Children can practice their growing literacy skills by reading to a trained therapy dog\n<BR><STRONG>SAT</STRONG> 11am to 12pm\n<BR>o <A href=\"http://www.readingwithrover.org/events/reading-with-rover-at-lake-stevens-library-2-2020-01-11/\" TARGET = _blank>Lake Stevens Library, Lake Stevens Washington</A>\n<BR>o <A href=\"http://www.readingwithrover.org/events/reading-with-rover-at-oak-harbor-library-2020-01-11/\" TARGET = _blank>Oak Harbor Library, Oak Harbor WA</A>\n<BR><STRONG>SUN</STRONG> 1:30pm to 2:30pm\n<BR>o <A href=\"http://www.readingwithrover.org/events/reading-with-rover-at-bothell-public-library-2-2020-01-12/\" TARGET = _blank>Bothell Library, Bothell WA</A>\n<BR>o <A href=\"http://www.readingwithrover.org/events/reading-with-rover-at-mercer-island-library-2020-01-05/\" TARGET = _blank>Mercer Island Public Library, Mercer Island WA</A>",
+      "links": [],
+      "sponsor": "",
+      "sponsorURL": ""
+    },
+    {
+      "title": "Marine Discovery Day at MaST",
+      "titleURL": "https://mast.highline.edu/visit/discovery-day/",
+      "badges": [
+        {
+          "name": "Free Admission",
+          "tooltip": "Gate admission is free, additional items may be available for purchase inside",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/dollarx.gif"
+        },
+        {
+          "name": "Kid Friendly",
+          "tooltip": "All ages welcome, with features appealing to younger children",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/teddy.jpg"
+        }
+      ],
+      "dow": "SAT",
+      "description": "<STRONG>SAT</STRONG> Head to the marine biology and aquarium facility of Highline College and visit the many tanks holding over 250 species of marine animals native to the Puget Sound. 10 a.m. to 2 p.m. <A HREF=\"https://mast.highline.edu/\" TARGET=\"_blank\">Marine Science and Technology Center</A>, Des Moines. <A HREF=\"https://binged.it/39uwPhn\" TARGET=\"_blank\">Map</A>",
+      "links": [],
+      "sponsor": "",
+      "sponsorURL": ""
+    },
+    {
+      "title": "Free Concerts at Crossroads Mall",
+      "titleURL": "https://crossroadsbellevue.com/music-events/market-stage",
+      "badges": [
+        {
+          "name": "Free Admission",
+          "tooltip": "Gate admission is free, additional items may be available for purchase inside",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/dollarx.gif"
+        },
+        {
+          "name": "Kid Friendly",
+          "tooltip": "All ages welcome, with features appealing to younger children",
+          "image": "https://davidspicks.files.wordpress.com/2019/12/teddy.jpg"
+        }
+      ],
+      "dow": "FRI-SUN",
+      "description": "<STRONG>FRI-SUN</STRONG> Free live music performances are hosted at the Crossroads Market Stage every Friday, Saturday, and Sunday. At <A HREF=\"https://crossroadsbellevue.com/\" TARGET=\"_blank\">Crossroads Mall</A> in Bellevue. <A HREF=\"http://binged.it/Y7Ynzn\" TARGET=\"_blank\">Map</A>",
+      "links": [],
+      "sponsor": "www.crossroadsbellevue.com",
+      "sponsorURL": "http://www.crossroadsbellevue.com/"
+    }
+  ]
+}
